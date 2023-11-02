@@ -1,0 +1,20 @@
+{
+    "nomApp" : "Pràctica Final U2",
+    "rutes" : [
+        {
+            "ruta" : "/",
+            "icona" : "home_filled",
+            "texte" : "Home Page"
+        },
+        {
+            "ruta" : "personal_page",
+            "icona" : "person",
+            "texte" : "Personal Page"
+        },
+        {
+            "ruta" : "widget_page",
+            "icona" : "widgets",
+            "texte" : "Widget Page"
+        }
+    ]
+}
